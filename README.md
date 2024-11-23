@@ -13,7 +13,7 @@ Welcome to the **Duck Hunt Game Task 4**
 - Implemented Game C functionality, providing a new level of gameplay.
 
 ## Upcoming Tasks:
--
+
 
 ## Tech Stack
 - HTML
