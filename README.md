@@ -3,7 +3,7 @@ Welcome to the **Duck Hunt Game Task 4**
 
 ## In Last Task ✨
 - Developed the initial game instruction and Game A mode.
-- Task 3 repo [Click here](https://github.com/doondigangadhar30/ApexPlanetTask3)
+- Task 4 repo [Click here](https://github.com/doondigangadhar30/ApexPlanetTask4)
 
 ## TASK 04:
 ### Features Added in Task 04:
